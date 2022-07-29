@@ -10,8 +10,8 @@
 
 // - 나의 풀이
 function test() {
-	 let nums = [200, 100, 300]
-	 nums.splice(2, 0, 10000)
+  let nums = [200, 100, 300]
+  nums.splice(2, 0, 10000)
 
   return nums
 }

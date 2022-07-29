@@ -5,8 +5,8 @@
 // - 나의 풀이
 function test() {
   let nums = [100, 200, 300, 400, 500]
-	nums.pop()
-	nums.pop()
+  nums.pop()
+  nums.pop()
   
   return nums
 }
